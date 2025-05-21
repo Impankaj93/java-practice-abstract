@@ -20,4 +20,5 @@ public abstract class ProductForSale {
 
     }
      abstract void showDetails();
+    //testing demo
 }
